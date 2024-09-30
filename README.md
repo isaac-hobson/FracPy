@@ -1,4 +1,4 @@
-# FracPY - Celestial Fractal Generator
+# FracPY - Fractal Generator
 
 Welcome to **FracPY**, a Python program that generates stunning fractals using the Sierpinski Triangle and Mandelbrot Set. This project combines artistic visualization with mathematical beauty, allowing users to explore the infinite complexity of fractals.
 
